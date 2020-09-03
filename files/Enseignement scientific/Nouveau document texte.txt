@@ -1,0 +1,43 @@
+============================================== Dimension1 Francais =====================================================
+Plutarc fondateur de la géographie et de la geométrie,
+1 er catalogue d'étoile
+trigo
+Ptolémé s'est inspiré de ses travaux que les hist on du mal a faire la diff entre les deux
+livre la géographie contient la 1ère carte du monde
+géométrie est celle de la mesurer
+terre légèrement applatie au poles
+découpe se fait sur un grand xe
+si on guillotinne la terre on créé des mérieins; demi-cercles qui coupe la terre au nord et au sud
+mérdeins =
+parallèles = 
+équateur parallèle à mi chemin des deux poles
+longitude, longerue parcourue sur un axe
+remonter sur un autre méridien = la latitude
+coordonnées déterminées pas la longitude et la latitude
+la sphère est de dimension 2, s2 car faut deux coordonées pour trouver la position d'un objet
+Il faut trois nombre longitude, la latitude, la hauteur, l'espace est de dimension 3. pour tourver un objet
+comment déssiner la terre:
+une méthiode est de la projeter sur un plan
+on peut projeter des viles sur un plan si l'on prend une ville et que l'on la projètte sur une tale, cela s'appelle la stéréo graphie
+Projection en concerne pas les grandeurs
+amérique du sud parrait plus petite que l'amériqe du nord
+pro comprende la projection, faire rouler la terre
+la projection stéréographique est conforme
+projection à paritr du nord, rayuons deviennes des paralèlles
+les méridiens de viennes des cercles concnetriques
+projection stéréographique transforme le cercle en des plans
+mériedeins et parallèles forment deux féiceaux de cerlces si regardé du dessous
+méridien de Greenwich.
+Dimension1 Français
+
+============================================================= https://www.geogebra.org/m/yEKFyRJs =========================================
+
+p129:
+1)
+Coordonnées de Paris : 5°E, 45°N
+
+2) Calculer la longueur d'un méridien et calculer la longueur de l'équateur.
+Longeure du rayon de la terre: 6400 km
+Rt=6400km
+logueur d'un équateur : 2*(pi)*R = 2*(pi)*Rt = 2*(pi)*6400 = 40 200km
+logueur d'un méridien : Léqu/2 = 40 200/2 = 20 100km
